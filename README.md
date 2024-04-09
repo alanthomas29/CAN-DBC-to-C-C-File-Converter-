@@ -2,6 +2,8 @@
   
 Coderdbc is a CLI utility for generating C code from DBC CAN matrix files
 
+Original Repository : https://github.com/astand/c-coderdbc.git
+
 ### Features
 - ***Pack*** and ***Unpack*** functions for conversion signals to CAN payload raw data and vice verse
 - ***Node based*** Receive function _(each node (ECU) has its own ***Receive*** function according to its DBC configuration)_
